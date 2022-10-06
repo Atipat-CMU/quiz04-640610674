@@ -1,1 +1,20 @@
-[{"username":"admin1","password":"$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou","isAdmin":true,"money":null},{"username":"user1","password":"$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou","isAdmin":false,"money":1000},{"username":"user2","password":"$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou","isAdmin":false,"money":500},{"username":"user3","password":"$2b$12$Fvn2/UeovIzXmYgsmMRvC.x6UgZEc3AZMv4ibDVlVmjQ3h9dXFeb2","isAdmin":false,"money":900},{"username":"admin2","password":"$2b$12$oYKh0G8EeEEAwzKPJgGwB.Mis1ApE/9rDseLPA/Ed2Oqm10PTgZ4K","isAdmin":true,"money":null},{"username":"user6","password":"$2b$12$V1x4KDQXvCNacCn0KJgo9ewztTDykoSPrOM1ryYfGBdNl24fv.vDG","isAdmin":false,"money":1000},{"username":"admin3","password":"$2b$12$hXWGoE42Y1rS2arRSjTn1.BOyOU7DM.O/hZDf2CuTUk9DOqCy.xTm","isAdmin":true,"money":null}]
+[
+  {
+    "username": "admin1",
+    "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
+    "isAdmin": true,
+    "money": null
+  },
+  {
+    "username": "user1",
+    "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
+    "isAdmin": false,
+    "money": 1000
+  },
+  {
+    "username": "user2",
+    "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
+    "isAdmin": false,
+    "money": 500
+  }
+]
