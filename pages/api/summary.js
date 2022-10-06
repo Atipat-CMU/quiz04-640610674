@@ -18,7 +18,7 @@ export default function summaryRoute(req, res) {
     //return response
     res.json({
       ok: true,
-      userCount: users.length,
+      userCount: customer.length,
       adminCount: users.length - customer.length,
       totalMoney,
     });
